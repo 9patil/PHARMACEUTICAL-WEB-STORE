@@ -1,6 +1,6 @@
-![Screenshot (21)](https://github.com/user-attachments/assets/703144da-809c-4b8c-815c-b80da7980200)# PHARMACEUTICAL-WEB-STORE
+# PHARMACEUTICAL-WEB-STORE
 
-This project was made for DBMS laboratory subject as a mini project by usining pure php language for 1th semester  , which it represent an online pharmacy store.
+This project was made for DBMS laboratory subject as a mini project by usining pure php language for 1th semester MCA, which it represent an online pharmacy store.
 
 # Pages
 
@@ -27,3 +27,5 @@ This project was made for DBMS laboratory subject as a mini project by usining p
 ![Screenshot (13) - Copy](https://github.com/user-attachments/assets/a7d94a1a-e599-4e72-8532-0bf04c9f588d)
 
 ![Screenshot (28)](https://github.com/user-attachments/assets/d96d1d52-6d36-46a8-93fb-0e6803321718)
+
+
