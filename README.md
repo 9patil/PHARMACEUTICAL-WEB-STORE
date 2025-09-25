@@ -1,31 +1,27 @@
-# PHARMACEUTICAL-WEB-STORE
+PHARMACEUTICAL-WEB-STORE
 
-This project was made for DBMS laboratory subject as a mini project by usining pure php language for 1th semester MCA, which it represent an online pharmacy store.
+A simple online pharmacy web store project built using PHP, HTML, CSS, and MySQL. Users can browse products, add to cart, and place orders. Admin can manage products and orders.
 
-# Pages
+Features
 
-![Screenshot (21)](https://github.com/user-attachments/assets/96ba8f3c-d7a9-4e83-8d08-9d71a8eb6662)
+User registration and login
 
-![Screenshot (29)](https://github.com/user-attachments/assets/f7000d2d-8810-44c4-87f7-543fd679e4c3)
+Browse and search products
 
-![Screenshot (14) - Copy](https://github.com/user-attachments/assets/71cbc4bd-6bf7-4432-809b-133090b2f4dd)
+Shopping cart and checkout
 
-![Screenshot (16) - Copy](https://github.com/user-attachments/assets/d8a5f6aa-ec9a-4c62-a7c6-cb2fe1ad570e)
+Order management
 
-![Screenshot (22)](https://github.com/user-attachments/assets/c84e21f8-294c-41ca-9587-f8c73995d2b5)
+Admin dashboard
 
-![Screenshot (68)](https://github.com/user-attachments/assets/83e75869-480a-48d6-bd54-44f8c0c9ff91)
+Technologies
 
-![Screenshot (69)](https://github.com/user-attachments/assets/498a72b4-1fc4-45ca-9ec4-dece007318df)
+Frontend: HTML, CSS, JavaScript
 
-# Admin
+Backend: PHP
 
-![Screenshot (23)](https://github.com/user-attachments/assets/034bb738-dd93-43e2-ad5d-1def1911a2de)
+Database: MySQL
 
-![Screenshot (12)](https://github.com/user-attachments/assets/0eb1d2b6-e6d8-453f-934f-0b585850498d)
+Live Demo
 
-![Screenshot (13) - Copy](https://github.com/user-attachments/assets/a7d94a1a-e599-4e72-8532-0bf04c9f588d)
-
-![Screenshot (28)](https://github.com/user-attachments/assets/d96d1d52-6d36-46a8-93fb-0e6803321718)
-
-
+https://9patil.github.io/PHARMACEUTICAL-WEB-STORE/
