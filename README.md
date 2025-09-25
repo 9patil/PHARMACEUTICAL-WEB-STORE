@@ -1,27 +1,64 @@
-PHARMACEUTICAL-WEB-STORE
+# Pharmaceutical Web Store (PWS)
 
-A simple online pharmacy web store project built using PHP, HTML, CSS, and MySQL. Users can browse products, add to cart, and place orders. Admin can manage products and orders.
+💊 **Pharmaceutical Web Store** is a dynamic web project for showcasing medicines and health products online.  
+It is built primarily with **PHP**, along with **HTML, Bootstrap, CSS, SQL**, and JavaScript. Most of the functionality is handled using PHP.
 
-Features
+## 🔗 Live Demo  
+[👉 View here](https://9patil.github.io/PHARMACEUTICAL-WEB-STORE/)
 
-User registration and login
+## ⚙️ Features
+- Clean and responsive UI using Bootstrap  
+- Dynamic content management with PHP and SQL  
+- User authentication (login/register)  
+- Shopping cart and checkout functionality  
+- Admin panel for managing products, users, and orders  
+- Search and filter products by category  
+- Wishlist and user profile management  
 
-Browse and search products
+## 📂 Project Structure
 
-Shopping cart and checkout
+### Core Files
+- `index.php` / `home.php` → Main landing page  
+- `about.php` → About page  
+- `contact.php` → Contact page  
+- `shop.php` → Product listing  
+- `category.php` → Products by category  
+- `view_page.php` / `characters.php` → Product details  
+- `search_page.php` → Search results  
+- `cart.php` → Shopping cart  
+- `checkout.php` → Checkout page  
+- `wishlist.php` → User wishlist  
+- `user_profile_update.php` → User profile management  
 
-Order management
+### Admin Panel
+- `admin_page.php` → Admin dashboard  
+- `admin_header.php` / `footer.php` → Admin page layout  
+- `admin_products.php` → Manage products  
+- `admin_update_product.php` → Edit products  
+- `admin_users.php` → Manage users  
+- `admin_orders.php` → Manage orders  
+- `admin_total.php` / `admin_total_order.php` / `admin_total_user.php` → Admin stats  
+- `admin_contacts.php` → Contact inquiries  
+- `admin_update_profile.php` → Admin profile update  
+- `admin_product_placed.php` → Orders placed  
 
-Admin dashboard
+### Config & Includes
+- `config.php` → Database connection  
+- `header.php` / `footer.php` → Common site layout  
 
-Technologies
+### Authentication
+- `login.php` → User login  
+- `register.php` → User registration  
+- `logout.php` → User logout  
 
-Frontend: HTML, CSS, JavaScript
+### Database
+- `pharmacy.sql` → Database structure for users, orders, products  
+- `products.sql` → Product-specific database setup  
 
-Backend: PHP
+### Assets
+- `style.css` → Styling  
+- `script.js` → Optional JavaScript functionality  
 
-Database: MySQL
+## 🌟 About This Project
+This project is designed for learning and experimentation with **PHP and SQL**, demonstrating how to build a functional e-commerce platform for pharmaceutical products. It covers full-stack development concepts like database integration, session management, CRUD operations, and responsive design.  
 
-Live Demo
-
-https://9patil.github.io/PHARMACEUTICAL-WEB-STORE/
