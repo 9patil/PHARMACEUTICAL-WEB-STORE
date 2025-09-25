@@ -1,14 +1,14 @@
 # Pharmaceutical Web Store (PWS)
 
 💊 **Pharmaceutical Web Store** is a dynamic web project for showcasing medicines and health products online.  
-It is built primarily with **PHP**, along with **HTML, Bootstrap, CSS, SQL**, and JavaScript. Most of the functionality is handled using PHP.
+It is built entirely with **PHP** and **SQL**, with most of the functionality handled using PHP.
 
 ## 🔗 Live Demo  
 [👉 View here](https://9patil.github.io/PHARMACEUTICAL-WEB-STORE/)
 
 ## ⚙️ Features
-- Clean and responsive UI using Bootstrap  
-- Dynamic content management with PHP and SQL  
+- Fully dynamic web pages using PHP  
+- Database-driven product, user, and order management  
 - User authentication (login/register)  
 - Shopping cart and checkout functionality  
 - Admin panel for managing products, users, and orders  
@@ -55,10 +55,6 @@ It is built primarily with **PHP**, along with **HTML, Bootstrap, CSS, SQL**, an
 - `pharmacy.sql` → Database structure for users, orders, products  
 - `products.sql` → Product-specific database setup  
 
-### Assets
-- `style.css` → Styling  
-- `script.js` → Optional JavaScript functionality  
-
 ## 🌟 About This Project
-This project is designed for learning and experimentation with **PHP and SQL**, demonstrating how to build a functional e-commerce platform for pharmaceutical products. It covers full-stack development concepts like database integration, session management, CRUD operations, and responsive design.  
-
+This project is a beginner-friendly PHP and SQL application demonstrating a fully functional online store for pharmaceutical products.  
+It covers key concepts like database integration, session management, CRUD operations, and admin-user interaction.  
